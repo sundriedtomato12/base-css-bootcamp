@@ -1,3 +1,43 @@
-body{
-  background-color:pink;
+body {
+  font-family: "SelaneWebSTTwenty", Georgia, "Times New Roman", Times, serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333333;
+  background-color: #fff;
+}
+
+h1 {
+  margin: 0px;
+}
+
+h2 {
+  margin: 0px;
+  text-align: center;
+}
+
+h3 {
+  margin: 0px;
+}
+
+.image-cluster {
+  display: inline-block;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.image-in-row {
+  width: 50%;
+  height: auto;
+}
+
+.life-section {
+  margin: 0px;
+}
+
+.more-headlines {
+  display: block;
+  text-align: right;
 }

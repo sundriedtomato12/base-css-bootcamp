@@ -6,38 +6,20 @@ body {
   background-color: #fff;
 }
 
-h1 {
-  margin: 0px;
+a {
+  font-weight: bold;
 }
 
-h2 {
-  margin: 0px;
-  text-align: center;
+#header {
+  padding: 15px 0px 10px 0px;
 }
 
-h3 {
-  margin: 0px;
+#wikipedia-logo {
+  height: 50px;
+  width: auto;
 }
 
-.image-cluster {
-  display: inline-block;
-}
-
-img {
-  width: 100%;
-  height: auto;
-}
-
-.image-in-row {
-  width: 50%;
-  height: auto;
-}
-
-.life-section {
-  margin: 0px;
-}
-
-.more-headlines {
-  display: block;
-  text-align: right;
+#wikipedia-text {
+  height: 50px;
+  width: auto;
 }
